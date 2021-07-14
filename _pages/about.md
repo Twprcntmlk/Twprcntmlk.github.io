@@ -14,6 +14,14 @@ featured_image: /images/demo/about.jpg
 
 ## Get Personal
 
+### Hobbies
+* Weiqi / Go / Baduk
+* Running
+* Swimming
+
+
+## Recent Books Read
+
 <!-- Personal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
 
 <a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a> -->
