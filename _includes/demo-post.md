@@ -1,6 +1,6 @@
 ## Demo content
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+Where is this
 
 We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
 
