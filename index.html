@@ -26,7 +26,7 @@ featured_image: /images/demo/home2.jpg
 
 	<div class="wrap">
 
-		{% for Project1 in site.projects reversed %}
+		{% for project in site.Project1 reversed %}
 
 		<article class="post">
 
@@ -44,6 +44,8 @@ featured_image: /images/demo/home2.jpg
 
 		</article>
 
+		{% for project in site.Project2 reversed %}
+
 		<article class="post">
 
 			<div class="post__image-wrap">
@@ -59,6 +61,8 @@ featured_image: /images/demo/home2.jpg
 			</div>
 
 		</article>
+
+		{% for project in site.Project3 reversed %}
 
 		<article class="post">
 
