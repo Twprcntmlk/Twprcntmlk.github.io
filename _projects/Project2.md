@@ -1,5 +1,5 @@
 ---
-title: 'Discord App
+title: 'Discord App'
 subtitle: 'Project made with React/Redux, Flask/SQL-Alchemy, AWS/Websockets'
 date: 2018-06-30 00:00:00
 description: This project
