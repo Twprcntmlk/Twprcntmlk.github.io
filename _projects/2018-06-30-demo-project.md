@@ -1,8 +1,8 @@
 ---
-title: 'Demo Project'
-subtitle: 'This is a demo'
+title: 'YGO Gacha Game'
+subtitle: 'Project made with React/Redux, Flask/SQL-Alchemy, AWS'
 date: 2018-06-30 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
+description: This project 
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
