@@ -1,8 +1,8 @@
 ---
-title: 'YGO Gacha Game'
-subtitle: 'Project made with React/Redux, Flask/SQL-Alchemy, AWS'
+title: 'Discord App
+subtitle: 'Project made with React/Redux, Flask/SQL-Alchemy, AWS/Websockets'
 date: 2018-06-30 00:00:00
-description: This project 
+description: This project
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
