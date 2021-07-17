@@ -7,6 +7,18 @@ featured_image: '/images/RPA-Personal-Page.png'
 ---
 > “My early work was not refined but it had significant impact. Each of these invoices could take two mins at minimum and with hundred of thousand of invoices I saved literally 80+ working hours. With two computer, I could then run other processes while doing work that required my personal attention”
 >
+
+
+<iframe width="715" height="403" src="https://www.youtube.com/embed/95ZsYABDak0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="716" height="403" src="https://www.youtube.com/embed/4idxWQ7sl0o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="716" height="403" src="https://www.youtube.com/embed/9YKu_9KmdaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe src="https://youtu.be/4idxWQ7sl0o" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+<iframe src="https://youtu.be/9YKu_9KmdaU" width="640" height="360" frameborder="0" allowfullscreen></iframe> -->
+
 <!-- ![](/images/demo/demo-landscape.jpg)
 
 ## Demo content
@@ -93,13 +105,3 @@ A nice little feature: the carousel only advances when it is in view, so your vi
 ### What about videos?
 
 Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly: -->
-
-<iframe width="715" height="403" src="https://www.youtube.com/embed/95ZsYABDak0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="716" height="403" src="https://www.youtube.com/embed/4idxWQ7sl0o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="716" height="403" src="https://www.youtube.com/embed/9YKu_9KmdaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<!-- <iframe src="https://youtu.be/4idxWQ7sl0o" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-
-<iframe src="https://youtu.be/9YKu_9KmdaU" width="640" height="360" frameborder="0" allowfullscreen></iframe> -->
