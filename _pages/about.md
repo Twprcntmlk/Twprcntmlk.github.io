@@ -5,7 +5,7 @@ description: Personal is the perfect theme for developers, designers and other c
 featured_image: /images/demo/about.jpg
 ---
 
-# Hi!, Here is a little about me. Please feel to talk to me about anything!
+> Hi!, Here is a little about me. Please feel to talk to me about anything!
 
 ## Jobs
 * App Academy Graduate
