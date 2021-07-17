@@ -95,6 +95,6 @@ Videos are an awesome way to show off your work in a more engaging and personal 
 
 <iframe src="https://youtu.be/95ZsYABDak0" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
-<iframe src="https://youtu.be/4idxWQ7sl0o" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<!-- <iframe src="https://youtu.be/4idxWQ7sl0o" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
-<iframe src="https://youtu.be/9YKu_9KmdaU" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://youtu.be/9YKu_9KmdaU" width="640" height="360" frameborder="0" allowfullscreen></iframe> -->
