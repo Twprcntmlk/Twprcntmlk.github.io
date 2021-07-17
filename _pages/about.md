@@ -5,8 +5,9 @@ description: Personal is the perfect theme for developers, designers and other c
 featured_image: /images/demo/about.jpg
 ---
 
-## Jobs
+# Hi!, Here is a little about me. Please feel to talk to me about anything!
 
+## Jobs
 * App Academy Graduate
 * LG Data Analyst
 * Owner CEO Fashion Paragon Traders
@@ -17,8 +18,6 @@ featured_image: /images/demo/about.jpg
 * Weiqi / Go / Baduk
 * Running
 * Swimming
-
-
 
 ## Recent Books Read
 * 12 Rules for Life: An Antidote to Chaos
