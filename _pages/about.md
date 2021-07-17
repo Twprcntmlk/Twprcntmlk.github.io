@@ -13,11 +13,11 @@ featured_image: /images/demo/about.jpg
 * Quidsi-Amazon Data Analyst
 
 ## Get Personal
-
 ### Hobbies
 * Weiqi / Go / Baduk
 * Running
 * Swimming
+
 
 
 ## Recent Books Read
