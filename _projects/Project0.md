@@ -5,7 +5,7 @@ date: 2018-06-30 00:00:00
 description:  Pandas is a software library written for the Python programming language for data manipulation and analysis. Selenium is a portable framework for testing web applications. UiPath is a global software company for robotic process automation
 featured_image: '/images/RPA-Personal-Page.png'
 ---
-> “My early work was not refined but it had significant impact. Each of these invoices could take two mins at minimum and with hundred of thousand of invoices I saved literally 80+ working hours. With two computer, I could then run other processes while doing work that required my personal attention”
+> “My early RPA attempt were self-taught and not very refined however it had significant impact. Each of these invoices could take two mins at minimum and with hundred of thousand of invoices I saved literally 80+ working hours. With two computer, I could then run other processes while doing more important work that required my personal attention”
 >
 
 
@@ -15,7 +15,7 @@ featured_image: '/images/RPA-Personal-Page.png'
 
 <iframe width="716" height="403" src="https://www.youtube.com/embed/9YKu_9KmdaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe src="https://youtu.be/4idxWQ7sl0o" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<!-- <iframe src="https://youtu.be/4idxWQ7sl0o" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 <iframe src="https://youtu.be/9YKu_9KmdaU" width="640" height="360" frameborder="0" allowfullscreen></iframe> -->
 
