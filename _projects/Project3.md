@@ -3,7 +3,7 @@ title: 'AirBnb App'
 subtitle: 'A clone of the online marketplace that connects people who want to rent out their homes with people who are looking for accommodations in that locale!'
 date: 2018-06-30 00:00:00
 description: This project was made with React/Redux, Express, AWS, Google Map API
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/Air-Bnb-Personal-Page.png'
 ---
 
 ![](/images/demo/demo-landscape.jpg)
