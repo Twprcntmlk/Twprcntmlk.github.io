@@ -2,7 +2,7 @@
 title: 'Discord App'
 subtitle: 'This project was made with React/Redux, Flask/SQL-Alchemy, AWS/Websockets'
 date: 2018-06-30 00:00:00
-description: A clone of the social interaction app!
+description: A clone of the group-chatting platform originally built for gamers that has since become a general use platform for many kinds of communities.
 featured_image: '/images/Discord-Personal-Page.png'
 ---
 
@@ -94,13 +94,3 @@ A nice little feature: the carousel only advances when it is in view, so your vi
 Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
 
 <iframe src="https://player.vimeo.com/video/148003889" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-
----
-
-## Pretty cool, huh?
-
-We've packed this theme with powerful features to show off your work.
-
-Why not put them to use on your new portfolio?
-
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
