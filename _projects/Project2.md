@@ -3,7 +3,7 @@ title: 'Discord App'
 subtitle: 'This project was made with React/Redux, Flask/SQL-Alchemy, AWS/Websockets'
 date: 2018-06-30 00:00:00
 description: A clone of the group-chatting platform originally built for gamers that has since become a general use platform for many kinds of communities.
-featured_image: '/images/Discord-Personal-Page.png'
+featured_image: '/images/discord_images/Discord-Personal-Page.png'
 ---
 
 ![](/images/demo/demo-landscape.jpg)

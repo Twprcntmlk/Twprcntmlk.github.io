@@ -3,7 +3,7 @@ title: 'Early Work with Pandas/RPA'
 subtitle: 'Videos and example involving my work with Pandas and Automation'
 date: 2018-06-30 00:00:00
 description:  Pandas is a software library written for the Python programming language for data manipulation and analysis. Selenium is a portable framework for testing web applications. UiPath is a global software company for robotic process automation
-featured_image: '/images/RPA-Personal-Page.png'
+featured_image: '/images/rpa_images/RPA-Personal-Page.png'
 ---
 ## My self taught work in RPA, Selenium, and Python
 While my early RPA attempt were not very refined however it had significant impact. Each of these invoices could take two mins at minimum and with hundred of thousand of invoices I saved literally 80+ working hours. With two computer, I could then run other processes while doing more important work that required my personal attention

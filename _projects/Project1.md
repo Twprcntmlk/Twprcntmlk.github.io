@@ -3,15 +3,23 @@ title: 'YGO Gacha Game'
 subtitle: 'This project was made with React/Redux, Flask/SQL-Alchemy, AWS'
 date: 2018-06-30 00:00:00
 description: A genre of games that implement the gacha (toy vending machine) mechanic. Similar to loot boxes or prize crates!
-featured_image: '/images/YGO-Gacha-Personal-Page.png'
+featured_image: '/images/ygo_images/YGO-Gacha-Personal-Page.png'
 ---
 
 <div class="gallery" data-columns="1">
-	<img src="/images/ygo_images/YGO-PackFlipper-Page.png">
 	<img src="/images/ygo_images/YGO-CardFlipper-Page.png">
+	<img src="/images/ygo_images/YGO-PackFlipper-Page.png">
 	<img src="/images/ygo_images/YGO-DeckBuilder-Page.png">
 	<img src="/images/ygo_images/YGO-Card-Page.png">
 </div>
+
+## YGO Gacha Game
+
+This site a quick all-in-one build of the websites used for the YGO progession series and other challenges.
+
+The idea was to create a Gacha Style Game where a progression series style game could be played.
+
+For now the game is not fully implemented but the Gacha Style Framework is complete
 
 <!-- ![](/images/demo/demo-landscape.jpg)
 
