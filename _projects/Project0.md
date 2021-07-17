@@ -1,9 +1,11 @@
 ---
 title: 'Early Work with Pandas/RPA'
-subtitle: 'videos and example involving my work with Pandas and Automation'
+subtitle: 'Videos and example involving my work with Pandas and Automation'
 date: 2018-06-30 00:00:00
-description: This
-featured_image: '/images/RPA-Personal-Page'
+description: - Pandas is a software library written for the Python programming language for data manipulation and analysis.
+- Selenium is a portable framework for testing web applications.
+- UiPath is a global software company for robotic process automation
+featured_image: '/images/RPA-Personal-Page.png'
 ---
 
 ![](/images/demo/demo-landscape.jpg)
