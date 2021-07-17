@@ -5,7 +5,8 @@ date: 2018-06-30 00:00:00
 description:  Pandas is a software library written for the Python programming language for data manipulation and analysis. Selenium is a portable framework for testing web applications. UiPath is a global software company for robotic process automation
 featured_image: '/images/RPA-Personal-Page.png'
 ---
-
+> “My early work was not refined but it had significant impact. Each of these invoices could take two mins at minimum and with hundred of thousand of invoices I saved literally 80+ working hours. With two computer, I could then run other processes while doing work that required my personal attention”
+>
 <!-- ![](/images/demo/demo-landscape.jpg)
 
 ## Demo content
@@ -30,7 +31,7 @@ And:
 
 You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
 
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
+
 
 The theme also supports markdown tables:
 
