@@ -55,10 +55,10 @@ You can throw in some horizontal rules too:
 Here's a really neat custom feature we added – galleries:
 
 <div class="gallery" data-columns="3">
-	<img src="/images/demo/demo-portrait.jpg">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-square.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
+	<img src="/images/ygo_images/YGO-PackFlipper-Page.png">
+	<img src="/images/ygo_images/YGO-CardFlipper-Page.png">
+	<img src="/images/ygo_images/YGO-DeckBuilder-Page.png">
+	<img src="/images/ygo_images/YGO-Card-Page.png">
 </div>
 
 Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
@@ -85,8 +85,10 @@ Here's another gallery with only one column, which creates a carousel slide-show
 A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
 
 <div class="gallery" data-columns="1">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
+	<img src="/images/ygo_images/YGO-PackFlipper-Page.png">
+	<img src="/images/ygo_images/YGO-CardFlipper-Page.png">
+	<img src="/images/ygo_images/YGO-DeckBuilder-Page.png">
+	<img src="/images/ygo_images/YGO-Card-Page.png">
 </div>
 
 ### What about videos?
@@ -94,4 +96,3 @@ A nice little feature: the carousel only advances when it is in view, so your vi
 Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
 
 <iframe src="https://player.vimeo.com/video/148003889" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-
