@@ -1,8 +1,8 @@
 ---
 title: 'YGO Gacha Game'
-subtitle: 'A genre of games that implement the gacha (toy vending machine) mechanic. Similar to loot boxes or prize crates!'
+subtitle: 'This project was made with React/Redux, Flask/SQL-Alchemy, AWS'
 date: 2018-06-30 00:00:00
-description: This project was made with React/Redux, Flask/SQL-Alchemy, AWS
+description: A genre of games that implement the gacha (toy vending machine) mechanic. Similar to loot boxes or prize crates!
 featured_image: '/images/YGO-Gacha-Personal-Page.png'
 ---
 

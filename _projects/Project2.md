@@ -1,8 +1,8 @@
 ---
 title: 'Discord App'
-subtitle: 'A clone of the social interaction app!'
+subtitle: 'This project was made with React/Redux, Flask/SQL-Alchemy, AWS/Websockets'
 date: 2018-06-30 00:00:00
-description: This project was made with React/Redux, Flask/SQL-Alchemy, AWS/Websockets
+description: A clone of the social interaction app!
 featured_image: '/images/Discord-Personal-Page.png'
 ---
 
