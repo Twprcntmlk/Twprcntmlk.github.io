@@ -15,11 +15,11 @@ featured_image: '/images/RPA-Personal-Page.png'
 
 <iframe width="716" height="403" src="https://www.youtube.com/embed/9YKu_9KmdaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<!-- <iframe src="https://youtu.be/4idxWQ7sl0o" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-
-<iframe src="https://youtu.be/9YKu_9KmdaU" width="640" height="360" frameborder="0" allowfullscreen></iframe> -->
 
 <!-- ![](/images/demo/demo-landscape.jpg)
+ <iframe src="https://youtu.be/4idxWQ7sl0o" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+<iframe src="https://youtu.be/9YKu_9KmdaU" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 ## Demo content
 
