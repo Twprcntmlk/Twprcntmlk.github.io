@@ -21,6 +21,8 @@ featured_image: /images/demo/about.jpg
 
 
 ## Recent Books Read
+* 12 Rules for Life: An Antidote to Chaos
+* Beyond Order: 12 More Rules for Life
 
 <!-- Personal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
 
