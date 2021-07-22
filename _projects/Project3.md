@@ -10,8 +10,8 @@ featured_image: '/images/airbnb_images/Air-Bnb-Personal-Page.png'
 	<img src="/images/demo/demo-landscape-2.jpg">
 </div>
 
-## AIRBNB APP
-### (React/Redux, Express, AWS, Google Map API) :
+## AIRBNB CLONE APP
+### Technologies:  (React/Redux, Express, AWS, Google Map API) :
 
 * Executed carousels for property images with Keen-Slider to better mimic functionality and space efficiency.
 * Created full booking & reviews CRUDS and achieved personal display for each user.
