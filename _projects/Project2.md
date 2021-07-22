@@ -11,9 +11,9 @@ featured_image: '/images/discord_images/Discord-Personal-Page.png'
 	<img src="/images/demo/demo-landscape-2.jpg">
 </div>
 
-## DISCORD CLONE APP <a href="https://discoursediscordclone.herokuapp.com/">(link to project) </a>
+## DISCORD CLONE APP
 #### (React/Redux, Flask/SQL-Alchemy, AWS/Websockets)
-
+<a href="https://discoursediscordclone.herokuapp.com/">(link to project) </a>
 
 * Created context menus on the server component allowing users access multiple actions per click.
 * Implemented websockets for a live chat feature on servers and channels components.
