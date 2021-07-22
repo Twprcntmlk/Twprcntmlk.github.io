@@ -16,6 +16,7 @@ featured_image: '/images/ygo_images/YGO-Gacha-Personal-Page.png'
 ## YGO Gacha Game
 ### Technologies: (React/Redux, Flask/SQL-Alchemy, AWS)
 #### This site a quick all-in-one build of the websites used for the YGO progession series and other challenges. The idea was to create a Gacha Style Game where a progression series style game could be played. For now the game is not fully implemented but the Gacha Style Framework is complete
+<a href="https://capstone-ygo-gacha-project.herokuapp.com/">link to project </a>
 
 * Used external API with memo-ization to work on system design concepts and save +1T database memory.
 * Applied drag and drop functionality with plain Javascript and JSX for deck builder components.
