@@ -11,9 +11,9 @@ featured_image: '/images/airbnb_images/Air-Bnb-Personal-Page.png'
 	<img src="/images/demo/demo-landscape-2.jpg">
 </div>
 
-## AIRBNB CLONE APP
-### Technologies:  (React/Redux, Express, AWS, Google Map API) :
-<a href="https://react-solo-project.herokuapp.com/">link to project </a>
+## AIRBNB CLONE APP <a href="https://react-solo-project.herokuapp.com/">(link to project) </a>
+### Technologies: (React/Redux, Express, AWS, Google Map API) :
+
 * Executed carousels for property images with Keen-Slider to better mimic functionality and space efficiency.
 * Created full booking & reviews CRUDS and achieved personal display for each user.
 * Developed rating systems that grabs mean for all measured parameters live for all users.
