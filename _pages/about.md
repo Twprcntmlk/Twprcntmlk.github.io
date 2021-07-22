@@ -11,7 +11,7 @@ featured_image: /images/demo/about.jpg
 * <a href="https://github.com/Twprcntmlk">Git Hub Profile</a>
 * <a href="https://www.linkedin.com/in/stephen-choung-jino/">Linkin Profile</a>
 * Email: stephen.choung.coder@gmail.com
-* Resume: <a href="/images/Resume-Stephen-Pdf.pdf" download>Download Here</a>
+* Resume: <a href="/images/Resume-Stephen-Pdf.pdf" download="Resume-Stephen-Pdf">Download Here</a>
 
 ## Jobs
 * App Academy Graduate
