@@ -16,11 +16,12 @@ featured_image: '/images/ygo_images/YGO-Gacha-Personal-Page.png'
 ## YGO Gacha Game
 
 This site a quick all-in-one build of the websites used for the YGO progession series and other challenges.
-
 The idea was to create a Gacha Style Game where a progression series style game could be played.
-
 For now the game is not fully implemented but the Gacha Style Framework is complete
 
+* Used external API with memo-ization to work on system design concepts and save +1T database memory.
+* Applied drag and drop functionality with plain Javascript and JSX for deck builder components.
+* Implemented search/filter on card CRUDS for easier admin database management
 <!-- ![](/images/demo/demo-landscape.jpg)
 
 ## Demo content

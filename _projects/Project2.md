@@ -6,7 +6,19 @@ description: A clone of the group-chatting platform originally built for gamers 
 featured_image: '/images/discord_images/Discord-Personal-Page.png'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+<div class="gallery" data-columns="1">
+	<img src="/images/demo/demo-landscape.jpg">
+	<img src="/images/demo/demo-landscape-2.jpg">
+</div>
+
+DISCORD APP (React/Redux, Flask/SQL-Alchemy, AWS/Websockets)  :
+
+* Created context menus on the server component allowing users access multiple actions per click.
+* Implemented websockets for a live chat feature on servers and channels components.
+* Created full friends CRUDS and included a pending functionality with an intermediary check on the backend.
+
+
+<!-- ![](/images/demo/demo-landscape.jpg)
 
 ## Demo content
 
@@ -93,4 +105,4 @@ A nice little feature: the carousel only advances when it is in view, so your vi
 
 Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
 
-<iframe src="https://player.vimeo.com/video/148003889" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/148003889" width="640" height="360" frameborder="0" allowfullscreen></iframe> -->
