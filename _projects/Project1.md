@@ -7,9 +7,9 @@ featured_image: '/images/discord_images/Discord-Personal-Page.png'
 ---
 
 <div class="gallery" data-columns="1">
-	<img src="/images/discord_images/Discord1.jpg">
-	<img src="/images/discord_images/Discord2.jpg">
-	<img src="/images/discord_images/Discord3.jpg">
+	<img src="/images/discord_images/Discord1.png">
+	<img src="/images/discord_images/Discord2.png">
+	<img src="/images/discord_images/Discord3.png">
 </div>
 
 ## DISCORD CLONE APP
