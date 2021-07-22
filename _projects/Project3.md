@@ -7,8 +7,10 @@ featured_image: '/images/airbnb_images/Air-Bnb-Personal-Page.png'
 ---
 
 <div class="gallery" data-columns="1">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
+	<img src="/images/airbnb_images/Air-Bnb0.jpg">
+	<img src="/images/airbnb_images/Air-Bnb1.jpg">
+	<img src="/images/airbnb_images/Air-Bnb2.jpg">
+	<img src="/images/airbnb_images/Air-Bnb3.jpg">
 </div>
 
 ## AIRBNB CLONE APP

@@ -8,8 +8,8 @@ featured_image: /images/demo/about.jpg
 > Hi!, Here is a little about me. Please feel to talk to me about anything!
 
 ## Contact Me / Info
-* <a href="https://github.com/Twprcntmlk">Git Hub Profile</a>
-* <a href="https://www.linkedin.com/in/stephen-choung-jino/">Linkin Profile</a>
+* <a href="https://github.com/Twprcntmlk">GitHub</a>
+* <a href="https://www.linkedin.com/in/stephen-choung-jino/">Linkedin</a>
 * Email: stephen.choung.coder@gmail.com
 * Resume: <a href="https://twprcntmlk.github.io/images/Resume-Stephen-Pdf.pdf" download="Resume-Stephen-Pdf.pdf">Download Here</a>
 
