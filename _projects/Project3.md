@@ -12,7 +12,7 @@ featured_image: '/images/airbnb_images/Air-Bnb-Personal-Page.png'
 </div>
 
 ## AIRBNB CLONE APP
-### (React/Redux, Express, AWS, Google Map API) :
+### (React/Redux, Express, AWS, Google Map API)
 <a href="https://react-solo-project.herokuapp.com/">(link to project) </a>
 
 * Executed carousels for property images with Keen-Slider to better mimic functionality and space efficiency.
