@@ -1,31 +1,27 @@
 ---
-title: 'YGO Gacha Game'
-subtitle: 'This project was made with React/Redux, Flask/SQL-Alchemy, AWS'
+title: 'Discord App'
+subtitle: 'This project was made with React/Redux, Flask/SQL-Alchemy, AWS/Websockets'
 date: 2018-06-30 00:00:00
-description: A genre of games that implement the gacha (toy vending machine) mechanic. Similar to loot boxes or prize crates!
-featured_image: '/images/ygo_images/YGO-Gacha-Personal-Page.png'
+description: A clone of the group-chatting platform originally built for gamers that has since become a general use platform for many kinds of communities.
+featured_image: '/images/discord_images/Discord-Personal-Page.png'
 ---
 
 <div class="gallery" data-columns="1">
-	<img src="/images/ygo_images/YGO-CardFlipper-Page.png">
-	<img src="/images/ygo_images/YGO-PackFlipper-Page.png">
-	<img src="/images/ygo_images/YGO-DeckBuilder-Page.png">
-	<img src="/images/ygo_images/YGO-Card-Page.png">
+	<img src="/images/discord_images/Discord1.jpg">
+	<img src="/images/discord_images/Discord2.jpg">
+	<img src="/images/discord_images/Discord3.jpg">
 </div>
 
-## YGO Gacha Game
-### (React/Redux, Flask/SQL-Alchemy, AWS)
-<a href="https://capstone-ygo-gacha-project.herokuapp.com/"> (link to project) </a>
+## DISCORD CLONE APP
+### (React/Redux, Flask/SQL-Alchemy, AWS/Websockets)
+<a href="https://discoursediscordclone.herokuapp.com/">(link to project) </a>
 
-#### This site a quick all-in-one build of the websites used for the YGO progession series and other challenges. The idea was to create a Gacha Style Game where a progression series style game could be played. For now the game is not fully implemented but the Gacha Style Framework is complete
+* Created context menus on the server component allowing users access multiple actions per click.
+* Implemented websockets for a live chat feature on servers and channels components.
+* Created full friends CRUDS and included a pending functionality with an intermediary check on the backend.
 
 
-* Used external API with memo-ization to work on system design concepts and save +1T database memory.
-* Applied drag and drop functionality with plain Javascript and JSX for deck builder components.
-* Implemented search/filter on card CRUDS for easier admin database management
-
-<!--
-[](/images/demo/demo-landscape.jpg)
+<!-- ![](/images/demo/demo-landscape.jpg)
 
 ## Demo content
 
@@ -74,10 +70,10 @@ You can throw in some horizontal rules too:
 Here's a really neat custom feature we added – galleries:
 
 <div class="gallery" data-columns="3">
-	<img src="/images/ygo_images/YGO-PackFlipper-Page.png">
-	<img src="/images/ygo_images/YGO-CardFlipper-Page.png">
-	<img src="/images/ygo_images/YGO-DeckBuilder-Page.png">
-	<img src="/images/ygo_images/YGO-Card-Page.png">
+	<img src="/images/demo/demo-portrait.jpg">
+	<img src="/images/demo/demo-landscape.jpg">
+	<img src="/images/demo/demo-square.jpg">
+	<img src="/images/demo/demo-landscape-2.jpg">
 </div>
 
 Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
@@ -104,14 +100,12 @@ Here's another gallery with only one column, which creates a carousel slide-show
 A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
 
 <div class="gallery" data-columns="1">
-	<img src="/images/ygo_images/YGO-PackFlipper-Page.png">
-	<img src="/images/ygo_images/YGO-CardFlipper-Page.png">
-	<img src="/images/ygo_images/YGO-DeckBuilder-Page.png">
-	<img src="/images/ygo_images/YGO-Card-Page.png">
+	<img src="/images/demo/demo-landscape.jpg">
+	<img src="/images/demo/demo-landscape-2.jpg">
 </div>
 
 ### What about videos?
 
 Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
 
-<iframe src="https://player.vimeo.com/video/148003889" width="640" height="360" frameborder="0" allowfullscreen></iframe> --> -->
+<iframe src="https://player.vimeo.com/video/148003889" width="640" height="360" frameborder="0" allowfullscreen></iframe> -->

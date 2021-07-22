@@ -1,27 +1,28 @@
 ---
-title: 'Discord App'
-subtitle: 'This project was made with React/Redux, Flask/SQL-Alchemy, AWS/Websockets'
+title: 'AirBnb App'
+subtitle: 'This project was made with React/Redux, Express, AWS, Google Map API'
 date: 2018-06-30 00:00:00
-description: A clone of the group-chatting platform originally built for gamers that has since become a general use platform for many kinds of communities.
-featured_image: '/images/discord_images/Discord-Personal-Page.png'
+description: A clone of the online marketplace that connects people who want to rent out their homes with people who are looking for accommodations in that locale!
+featured_image: '/images/airbnb_images/Air-Bnb-Personal-Page.png'
 ---
 
 <div class="gallery" data-columns="1">
-	<img src="/images/discord_images/Discord1.jpg">
-	<img src="/images/discord_images/Discord2.jpg">
-	<img src="/images/discord_images/Discord3.jpg">
+	<img src="/images/airbnb_images/Air-Bnb0.jpg">
+	<img src="/images/airbnb_images/Air-Bnb1.jpg">
+	<img src="/images/airbnb_images/Air-Bnb2.jpg">
+	<img src="/images/airbnb_images/Air-Bnb3.jpg">
 </div>
 
-## DISCORD CLONE APP
-### (React/Redux, Flask/SQL-Alchemy, AWS/Websockets)
-<a href="https://discoursediscordclone.herokuapp.com/">(link to project) </a>
+## AIRBNB CLONE APP
+### (React/Redux, Express, AWS, Google Map API)
+<a href="https://react-solo-project.herokuapp.com/">(link to project) </a>
 
-* Created context menus on the server component allowing users access multiple actions per click.
-* Implemented websockets for a live chat feature on servers and channels components.
-* Created full friends CRUDS and included a pending functionality with an intermediary check on the backend.
+* Executed carousels for property images with Keen-Slider to better mimic functionality and space efficiency.
+* Created full booking & reviews CRUDS and achieved personal display for each user.
+* Developed rating systems that grabs mean for all measured parameters live for all users.
 
-
-<!-- ![](/images/demo/demo-landscape.jpg)
+<!--
+![](/images/demo/demo-landscape.jpg)
 
 ## Demo content
 
