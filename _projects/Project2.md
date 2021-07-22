@@ -12,7 +12,7 @@ featured_image: '/images/discord_images/Discord-Personal-Page.png'
 </div>
 
 ## DISCORD CLONE APP
-#### (React/Redux, Flask/SQL-Alchemy, AWS/Websockets)
+### (React/Redux, Flask/SQL-Alchemy, AWS/Websockets)
 <a href="https://discoursediscordclone.herokuapp.com/">(link to project) </a>
 
 * Created context menus on the server component allowing users access multiple actions per click.
