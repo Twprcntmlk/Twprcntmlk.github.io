@@ -5,6 +5,7 @@ date: 2018-06-30 00:00:00
 description: A clone of the online marketplace that connects people who want to rent out their homes with people who are looking for accommodations in that locale!
 featured_image: '/images/airbnb_images/Air-Bnb-Personal-Page.png'
 ---
+
 <div class="gallery" data-columns="1">
 	<img src="/images/demo/demo-landscape.jpg">
 	<img src="/images/demo/demo-landscape-2.jpg">

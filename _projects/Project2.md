@@ -12,7 +12,7 @@ featured_image: '/images/discord_images/Discord-Personal-Page.png'
 </div>
 
 ## DISCORD CLONE APP
-#### Technologies: (React/Redux, Flask/SQL-Alchemy, AWS/Websockets)  :
+####(React/Redux, Flask/SQL-Alchemy, AWS/Websockets)  :
 
 * Created context menus on the server component allowing users access multiple actions per click.
 * Implemented websockets for a live chat feature on servers and channels components.
