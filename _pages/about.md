@@ -5,7 +5,7 @@ description: Personal is the perfect theme for developers, designers and other c
 featured_image: /images/demo/about.jpg
 ---
 
-> Hi!, Here is a little about me. Please feel to talk to me about anything!
+> Hi!, Here is a little about me. Both a technological and moral challenge, I hope to change the world by putting "good" information in the reach of people everywhere. 
 
 ## Contact Me / Info
 * <a href="https://github.com/Twprcntmlk">GitHub</a>
