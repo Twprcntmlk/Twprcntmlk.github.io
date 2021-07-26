@@ -13,12 +13,11 @@ featured_image: '/images/ygo_images/YGO-Gacha-Personal-Page.png'
 	<img src="/images/ygo_images/YGO-Card-Page.png">
 </div>
 
-## YGO Gacha Game
+## YGO GACHA GAME
 ### (React/Redux, Flask/SQL-Alchemy, AWS)
 <a href="https://capstone-ygo-gacha-project.herokuapp.com/"> (link to project) </a>
 
-#### This site a quick all-in-one build of the websites used for the YGO progession series and other challenges. The idea was to create a Gacha Style Game where a progression series style game could be played. For now the game is not fully implemented but the Gacha Style Framework is complete
-
+###### This site a quick all-in-one build of the websites used for the YGO progession series and other challenges. The idea was to create a Gacha Style Game where a progression series style game could be played. For now the game is not fully implemented but the Gacha Style Framework is complete
 
 * Used external API with memo-ization to work on system design concepts and save +1T database memory.
 * Applied drag and drop functionality with plain Javascript and JSX for deck builder components.
@@ -114,4 +113,4 @@ A nice little feature: the carousel only advances when it is in view, so your vi
 
 Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
 
-<iframe src="https://player.vimeo.com/video/148003889" width="640" height="360" frameborder="0" allowfullscreen></iframe> --> -->
+<iframe src="https://player.vimeo.com/video/148003889" width="640" height="360" frameborder="0" allowfullscreen></iframe> -->
