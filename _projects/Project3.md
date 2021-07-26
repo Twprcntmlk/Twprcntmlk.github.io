@@ -5,7 +5,6 @@ date: 2018-06-30 00:00:00
 description: A genre of games that implement the gacha (toy vending machine) mechanic. Similar to loot boxes or prize crates!
 featured_image: '/images/ygo_images/YGO-Gacha-Personal-Page.png'
 ---
-
 <div class="gallery" data-columns="1">
 	<img src="/images/ygo_images/YGO-CardFlipper-Page.png">
 	<img src="/images/ygo_images/YGO-PackFlipper-Page.png">
