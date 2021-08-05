@@ -16,7 +16,7 @@ featured_image: '/images/airbnb_images/Air-Bnb-Personal-Page.png'
 ## AIRBNB CLONE APP
 ### (React/Redux, Express, AWS, Google Map API)
 <a href="https://react-solo-project.herokuapp.com/">(link to project) </a>
-
+<a href="https://github.com/Twprcntmlk/App-Academy-Week16-Solo-Project">(link to repo) </a>
 * Executed carousels for property images with Keen-Slider to better mimic functionality and space efficiency.
 * Created full booking & reviews CRUDS and achieved personal display for each user.
 * Developed rating systems that grabs mean for all measured parameters live for all users.

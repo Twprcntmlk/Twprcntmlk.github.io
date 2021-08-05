@@ -15,7 +15,7 @@ featured_image: '/images/discord_images/Discord-Personal-Page.png'
 ## DISCORD CLONE APP
 ### (React/Redux, Flask/SQL-Alchemy, AWS/Websockets)
 <a href="https://discoursediscordclone.herokuapp.com/">(link to project) </a>
-
+<a href="https://github.com/f-q-a/discord-clone">(link to repo) </a>
 * Created context menus on the server component allowing users access multiple actions per click.
 * Implemented websockets for a live chat feature on servers and channels components.
 * Created full friends CRUDS and included a pending functionality with an intermediary check on the backend.

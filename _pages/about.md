@@ -6,7 +6,7 @@ featured_image: /images/demo/about.jpg
 ---
 
 ## "Both a technological and moral challenge, I hope to change the world by putting "good" information in the reach of people everywhere."
-
+<img src="/images/me.jpg">
 ## Contact Me / Info
 * <a href="https://github.com/Twprcntmlk">GitHub</a>
 * <a href="https://www.linkedin.com/in/stephen-choung-jino/">Linkedin</a>
