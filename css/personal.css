@@ -4,3 +4,8 @@
     flex-wrap:wrap;
     width:100vw;
 }
+
+.flex-container{
+    display:flex;
+    flex-basis: auto;
+}
