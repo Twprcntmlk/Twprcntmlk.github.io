@@ -5,7 +5,7 @@
     width:100vw;
 }
 
-.flex-container{
+.flexContainer{
     display:flex;
     flex-basis: auto;
 }
