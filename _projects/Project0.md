@@ -6,19 +6,20 @@ description:  Pandas is a software library written for the Python programming la
 featured_image: '/images/rpa_images/RPA-Personal-Page.png'
 ---
 ## My self taught work in RPA, Selenium, and Python
-While my early RPA attempt were not very refined however it had significant impact. Each of these invoices could take two mins at minimum and with hundred of thousand of invoices I saved literally 80+ working hours. With two computer, I could then run other processes while doing more important work that required my personal attention
+While my early RPA attempt were not very refined however it had significant impact. Each of these invoices could take two mins at minimum and with hundred of thousand of invoices I saved literally 80+ working hours. With two computer, I could then run other processes while doing more important work that required my personal attention.
 
 <iframe width="715" height="403" src="https://www.youtube.com/embed/95ZsYABDak0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 * This workflow uses UiPath Automation to handle invoices along with file uploading and validation that would normally take several minutes.
+* I was able to save over +80 hours of manual labor time.
 
 
 <iframe width="716" height="403" src="https://www.youtube.com/embed/4idxWQ7sl0o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-* This workflow uses selenium to handle more complex invoices along with file uploading and validation
+* This workflow uses selenium to handle more complex invoices along with file uploading and validation.
+* I was able to save over +80 hours of manual labor time in ADDITION to the time noted above.
 
 <iframe width="716" height="403" src="https://www.youtube.com/embed/9YKu_9KmdaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-* This Workflow downloads files and join them into 1 excel and processes the information
-to something more relavent than numbers into a report and automatically emails that report
-
+* This workflow downloads files and join them into 1 excel and processes the information to something more relavent than numbers into a report and automatically emails that report.
+* I was able to save over +5 hours of manual labor time a week along with additional time during safeguard.
 <!-- ![](/images/demo/demo-landscape.jpg)
  <iframe src="https://youtu.be/4idxWQ7sl0o" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
