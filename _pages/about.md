@@ -6,7 +6,7 @@ featured_image: /images/demo/about.jpg
 ---
 <div flex-container="row">
     <img flex-item height="200px" width="200px"  src="/images/me.jpg">
-    <div>"Both a technological and moral challenge, I hope to change the world by putting "good" information in the reach of people everywhere"</div>
+    <h2 flex-item >"Both a technological and moral challenge, I hope to change the world by putting "good" information in the reach of people everywhere"</h2>
 </div>
 
 
