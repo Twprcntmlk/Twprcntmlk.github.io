@@ -5,8 +5,8 @@ description: Personal is the perfect theme for developers, designers and other c
 featured_image: /images/demo/about.jpg
 ---
 <div class="flex-container">
-    <div>"Both a technological and moral challenge, I hope to change the world by putting "good" information in the reach of people everywher"</div>
-    <img height="300px" width="300px"  src="/images/me.jpg"> </img>
+    <img height="200px" width="200px"  src="/images/me.jpg"> </img>
+    <div>"Both a technological and moral challenge, I hope to change the world by putting "good" information in the reach of people everywhere"</div>
 </div>
 
 
