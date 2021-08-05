@@ -4,9 +4,12 @@ subtitle: I am a leader, and critical thinker. My background as a business owner
 description: Personal is the perfect theme for developers, designers and other creatives.
 featured_image: /images/demo/about.jpg
 ---
+<div class="flex-container">
+    <div>"Both a technological and moral challenge, I hope to change the world by putting "good" information in the reach of people everywher"</div>
+    <img height="300px" width="300px"  src="/images/me.jpg">
+</div>
 
-## "Both a technological and moral challenge, I hope to change the world by putting "good" information in the reach of people everywhere."
-<img src="/images/me.jpg">
+
 ## Contact Me / Info
 * <a href="https://github.com/Twprcntmlk">GitHub</a>
 * <a href="https://www.linkedin.com/in/stephen-choung-jino/">Linkedin</a>
