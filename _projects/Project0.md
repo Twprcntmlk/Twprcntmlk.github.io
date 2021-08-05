@@ -20,6 +20,7 @@ While my early RPA attempt were not very refined however it had significant impa
 <iframe width="716" height="403" src="https://www.youtube.com/embed/9YKu_9KmdaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 * This workflow downloads files and join them into 1 excel and processes the information to something more relavent than numbers into a report and automatically emails that report.
 * I was able to save over +5 hours of manual labor time a week along with additional time during safeguard.
+  
 <!-- ![](/images/demo/demo-landscape.jpg)
  <iframe src="https://youtu.be/4idxWQ7sl0o" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
