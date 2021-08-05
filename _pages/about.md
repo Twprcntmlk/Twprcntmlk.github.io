@@ -4,8 +4,8 @@ subtitle: I am a leader, and critical thinker. My background as a business owner
 description: Personal is the perfect theme for developers, designers and other creatives.
 featured_image: /images/demo/about.jpg
 ---
-<div class="flex-container">
-    <img height="200px" width="200px"  src="/images/me.jpg"> </img>
+<div flex-container="row">
+    <img flex-item height="200px" width="200px"  src="/images/me.jpg">
     <div>"Both a technological and moral challenge, I hope to change the world by putting "good" information in the reach of people everywhere"</div>
 </div>
 
