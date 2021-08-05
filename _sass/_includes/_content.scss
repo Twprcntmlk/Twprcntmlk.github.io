@@ -25,6 +25,11 @@
 	}
 }
 
+.flexContainer{
+    display:flex;
+    flex-basis: auto;
+}
+
 .single-post {
 	position: relative;
 	margin-top: -40px;
@@ -168,7 +173,7 @@
 				font-size: $p-medium;
 			}
 		}
-		
+
 		tr {
 
 			&:nth-child(2n) {
@@ -232,7 +237,7 @@
 					text-align: center;
 					color: $text-light-color;
 				}
-				
+
 				p {
 					display: inline;
 					max-width: 100%;
