@@ -27,7 +27,11 @@
 
 .flexContainer{
 	display:flex;
-	flex-direction: row;
+	flex-direction: column;
+	@include mq(laptop) {
+		display:flex;
+		flex-direction: row;
+	}
 }
 
 .flexContainer h2{
