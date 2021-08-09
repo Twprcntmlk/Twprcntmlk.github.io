@@ -32,12 +32,14 @@
 
 .flexContainer h2{
     margin: 2%;
+	font-size:0.85;
+
 	@include mq(tabletp) {
 		font-size:0.85;
 	}
 
 	@include mq(laptop) {
-		font-size: 0.85;
+		font-size: 1;
 	}
 }
 
