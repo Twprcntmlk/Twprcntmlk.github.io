@@ -32,6 +32,13 @@
 
 .flexContainer h2{
     margin: 2%;
+	@include mq(tabletp) {
+		font-size: $p-medium*0.85;
+	}
+
+	@include mq(laptop) {
+		font-size: $p-large*0.85;
+	}
 }
 
 .flexContainer img{
