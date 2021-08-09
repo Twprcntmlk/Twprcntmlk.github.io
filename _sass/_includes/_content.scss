@@ -32,11 +32,10 @@
 
 .flexContainer h2{
     margin: 2%;
-
+	display:flex;
+	flex-direction: column;
 	@include mq(laptop) {
 		font-size: 0.60;
-		display:flex;
-		flex-direction: column;
 	}
 }
 
@@ -47,8 +46,7 @@
 	@include mq(laptop) {
 		height: 200px;
 		width: 200px;
-		display:flex;
-		flex-direction: column;
+
 	}
 }
 
