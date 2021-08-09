@@ -32,9 +32,12 @@
 
 .flexContainer h2{
     margin: 2%;
-	font-size:0.55;
 
 	@include mq(tabletp) {
+		font-size:0.75;
+	}
+
+	@include mq(tabletl) {
 		font-size:0.85;
 	}
 
