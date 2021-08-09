@@ -34,11 +34,11 @@
     margin: 2%;
 
 	@include mq(tabletp) {
-		font-size:0.35;
+		font-size:0.15;
 	}
 
 	@include mq(tabletl) {
-		font-size:0.55;
+		font-size:0.25;
 	}
 
 	@include mq(laptop) {
