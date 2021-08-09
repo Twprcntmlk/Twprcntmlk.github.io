@@ -33,12 +33,6 @@
 .flexContainer h2{
     margin: 2%;
 
-	@include mq(tabletp) {
-		font-size:0.15;
-		display:flex;
-		flex-direction: column;
-	}
-
 	@include mq(laptop) {
 		font-size: 0.60;
 		display:flex;
@@ -49,6 +43,11 @@
 .flexContainer img{
     height: 200px;
 	width: 200px;
+
+	@include mq(laptop) {
+		height: 300px;
+		width: 300px;
+	}
 }
 
 .single-post {
