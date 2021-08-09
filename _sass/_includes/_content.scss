@@ -38,11 +38,6 @@
 		flex-direction: column;
 	}
 
-	@include mq(tabletl) {
-		font-size:0.25;
-		flex-direction: column;
-	}
-
 	@include mq(laptop) {
 		font-size: 0.60;
 		flex-direction: column;
