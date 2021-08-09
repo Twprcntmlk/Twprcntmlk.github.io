@@ -28,9 +28,11 @@
 .flexContainer{
 	display:flex;
 	flex-direction: column;
+	justify-content: center;
 	@include mq(laptop) {
 		display:flex;
 		flex-direction: row;
+		justify-content: center;
 	}
 }
 
@@ -38,6 +40,7 @@
     margin: 2%;
 	@include mq(laptop) {
 		font-size: 0.60;
+
 	}
 }
 
