@@ -41,12 +41,12 @@
 }
 
 .flexContainer img{
-    height: 200px;
-	width: 200px;
+    height: 350px;
+	width: 350px;
 
 	@include mq(laptop) {
-		height: 350px;
-		width: 350px;
+		height: 200px;
+		width: 200px;
 	}
 }
 
