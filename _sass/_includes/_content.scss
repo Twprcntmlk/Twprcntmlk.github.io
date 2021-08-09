@@ -27,7 +27,7 @@
 
 .flexContainer{
     display:flex;
-    flex-basis: auto;
+    flex-wrap: wrap;
 }
 
 .flexContainer h2{
