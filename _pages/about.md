@@ -23,6 +23,27 @@ featured_image: /images/demo/about.jpg
 * Quidsi-Amazon Data Analyst
 
 ## Skills
+<div class="single-skill-content">
+	<div class="individual-skill"><i class="devicon-javascript-plain colored"></i> <h2>JavaScript</h2></div>
+	<div class="individual-skill"><i class="devicon-ruby-plain colored"></i> <h2>Ruby</h2></div>
+	<div class="individual-skill"><i class="devicon-csharp-plain colored"></i> <h2>C#</h2></div>
+	<div class="individual-skill"><i class="devicon-python-plain colored"></i> <h2>Python</h2></div>
+	<div class="individual-skill"><i class="devicon-rails-plain colored"></i> <h2>Rails</h2></div>
+	<div class="individual-skill"><i class="devicon-react-plain colored"></i> <h2>React</h2></div>
+	<div class="individual-skill"><i class="devicon-css3-plain colored"></i> <h2>CSS3</h2></div>
+	<div class="individual-skill"><i class="devicon-html5-plain colored"></i> <h2>HTML5</h2></div>
+	<div class="individual-skill"><i class="devicon-nodejs-plain colored"></i> <h2>Node.js</h2></div>
+	<div class="individual-skill"><i class="devicon-github-plain colored"></i> <h2>GitHub</h2></div>
+	<div class="individual-skill"><i class="devicon-postgresql-plain colored"></i> <h2>PostgreSQL</h2></div>
+	<div class="individual-skill"><i class="devicon-jquery-plain colored"></i> <h2>jQuery</h2></div>
+	<div class="individual-skill"><i class="devicon-sass-plain colored"></i> <h2>Sass</h2></div>
+	<div class="individual-skill"><i class="devicon-mongodb-plain colored"></i> <h2>MongoDB</h2></div>
+	<div class="individual-skill"><i class="devicon-express-original colored"></i> <h2>Express.js</h2></div>
+	<div class="individual-skill"><i class="devicon-photoshop-plain colored"></i> <h2>Photoshop</h2></div>
+	<div class="individual-skill"><i class="devicon-heroku-plain colored"></i> <h2>Heroku</h2></div>
+	<div class="individual-skill"><i class="devicon-redis-plain colored"></i> <h2>Redis</h2></div>
+	<div class="individual-skill"><i class="devicon-webpack-plain colored"></i> <h2>Webpack</h2></div>
+</div>
 
 <p classname="skills" style="display:flex; justify-content:space-between; flex-wrap:wrap;">
 <a href="https://getbootstrap.com" target="_blank" style="display:flex; flex-direction:column; justify-content:center;" width="110" height="110">
