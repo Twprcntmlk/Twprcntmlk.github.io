@@ -109,9 +109,9 @@ featured_image: /images/demo/about.jpg
 
 ## Hobbies
 #### Weiqi / Go / Baduk
-  - I am the two time back to back US and Canada Go 1 Kyu Champion also know as the strongest 1 Kyu. I'm a master of tournament play and have dominated the eastern tournament scene during 2018 to current day.
+- I am the two time back to back US and Canada Go 1 Kyu Champion also know as the strongest 1 Kyu. I'm a master of tournament play and have dominated the eastern tournament scene during 2018 to current day.
 #### Running and Swimming
-    - Long time cross country runner and sprint swimmer. Cross country running was a great way to not only train myself physical but to training mentally to stay in the "suck". Swimming was often done during the winter season and therefore was a great way to train my breathing and use my legs in a different way.
+ - Long time cross country runner and sprint swimmer. Cross country running was a great way to not only train myself physical but to training mentally to stay in the "suck". Swimming was often done during the winter season and therefore was a great way to train my breathing and use my legs in a different way.
 
 ## Recent Books Read
 * 12 Rules for Life: An Antidote to Chaos
