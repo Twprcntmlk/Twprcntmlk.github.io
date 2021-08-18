@@ -1,46 +1,4 @@
----
-layout: default
-title: Hi, I am a Full-Stack Software Developer
-description: I am a leader, and critical thinker. My background as a business owner and six-sigma black belt has prepared me to bring continued success to your organization.
-featured_image: /images/demo/home2.jpg
----
 
-<section class="hero hero--single">
-
-	<div class="hero__image" style="background-image: url({{ page.featured_image | relative_url }})">
-		<div class="hero__overlay"></div>
-	</div>
-
-	<div class="wrap">
-
-		<h1>{{ page.title }}</h1>
-		<p>{{ page.subtitle }}</p>
-
-	</div>
-
-</section>
-
-<section class="single">
-
-	<div class="wrap">
-
-		<article class="single-post">
-			{% include business-card.html %}
-
-			{{ page.content }}
-
-			{% include skills.html %}
-		</article>
-
-		</div>
-	</div>
-
-
-
-</section>
-
-
-<!--
 ---
 layout: default
 title: Hi, I am a Full-Stack Software Developer
@@ -90,5 +48,44 @@ featured_image: /images/demo/home2.jpg
 		{% endfor %}
 
 	</div>
+
+</section>
+
+<!--
+---
+layout: default
+---
+
+<section class="hero hero--single">
+
+	<div class="hero__image" style="background-image: url({{ page.featured_image | relative_url }})">
+		<div class="hero__overlay"></div>
+	</div>
+
+	<div class="wrap">
+
+		<h1>{{ page.title }}</h1>
+		<p>{{ page.subtitle }}</p>
+
+	</div>
+
+</section>
+
+<section class="single">
+
+	<div class="wrap">
+
+		<article class="single-post">
+			{% include business-card.html %}
+
+			{{ page.content }}
+
+			{% include skills.html %}
+		</article>
+
+		</div>
+	</div>
+
+
 
 </section> -->
