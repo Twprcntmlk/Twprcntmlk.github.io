@@ -4,14 +4,14 @@ subtitle: I am a leader, and critical thinker. My background as a business owner
 description: Personal is the perfect theme for developers, designers and other creatives.
 featured_image: /images/demo/about.jpg
 ---
-<div class="flexContainer">
+<!-- <div class="flexContainer">
 
 
 </div>
 
 
 ## Contact Me / Info
-
+ -->
 
 ## Jobs
 * App Academy Graduate
