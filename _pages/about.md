@@ -23,50 +23,29 @@ featured_image: /images/demo/about.jpg
 * Quidsi-Amazon Data Analyst
 
 ## Skills
-<div class="single-skill-content">
-	<div class="individual-skill"><i class="devicon-javascript-plain colored"></i> <h2>JavaScript</h2></div>
-	<div class="individual-skill"><i class="devicon-ruby-plain colored"></i> <h2>Ruby</h2></div>
-	<div class="individual-skill"><i class="devicon-csharp-plain colored"></i> <h2>C#</h2></div>
-	<div class="individual-skill"><i class="devicon-python-plain colored"></i> <h2>Python</h2></div>
-	<div class="individual-skill"><i class="devicon-rails-plain colored"></i> <h2>Rails</h2></div>
-	<div class="individual-skill"><i class="devicon-react-plain colored"></i> <h2>React</h2></div>
-	<div class="individual-skill"><i class="devicon-css3-plain colored"></i> <h2>CSS3</h2></div>
-	<div class="individual-skill"><i class="devicon-html5-plain colored"></i> <h2>HTML5</h2></div>
-	<div class="individual-skill"><i class="devicon-nodejs-plain colored"></i> <h2>Node.js</h2></div>
-	<div class="individual-skill"><i class="devicon-github-plain colored"></i> <h2>GitHub</h2></div>
-	<div class="individual-skill"><i class="devicon-postgresql-plain colored"></i> <h2>PostgreSQL</h2></div>
-	<div class="individual-skill"><i class="devicon-jquery-plain colored"></i> <h2>jQuery</h2></div>
-	<div class="individual-skill"><i class="devicon-sass-plain colored"></i> <h2>Sass</h2></div>
-	<div class="individual-skill"><i class="devicon-mongodb-plain colored"></i> <h2>MongoDB</h2></div>
-	<div class="individual-skill"><i class="devicon-express-original colored"></i> <h2>Express.js</h2></div>
-	<div class="individual-skill"><i class="devicon-photoshop-plain colored"></i> <h2>Photoshop</h2></div>
-	<div class="individual-skill"><i class="devicon-heroku-plain colored"></i> <h2>Heroku</h2></div>
-	<div class="individual-skill"><i class="devicon-redis-plain colored"></i> <h2>Redis</h2></div>
-	<div class="individual-skill"><i class="devicon-webpack-plain colored"></i> <h2>Webpack</h2></div>
-</div>
 
-<p classname="skills" style="display:flex; justify-content:space-between; flex-wrap:wrap;">
-<a href="https://getbootstrap.com" target="_blank" style="display:flex; flex-direction:column; justify-content:center;" width="110" height="110">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="100" height="100"/>
-<h5>BootStrap</h5>
-</a>
-<a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" style="display:flex; flex-direction:column; justify-content:center;" width="150" height="150">
-<img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="100" height="100"/>
-<h5>CockroachDB</h5>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="100" height="100"/>
-<h5>CSS</h5>
-</a>
-<a href="https://www.djangoproject.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="100" height="100"/>
-<h5>Django</h5>
-</a>
-<a href="https://www.docker.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="100" height="100"/>
-<h5>Docker</h5>
-</a>
-<a href="https://expressjs.com" target="_blank">
+<!-- <p classname="skills" style="display:flex; justify-content:space-between; flex-wrap:wrap;">
+    <a href="https://getbootstrap.com" target="_blank" style="display:flex; flex-direction:column; justify-content:center;" width="110" height="110">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="100" height="100"/>
+        <h5>BootStrap</h5>
+    </a>
+    <a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" style="display:flex; flex-direction:column; justify-content:center;" width="150" height="150">
+        <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="100" height="100"/>
+        <h5>CockroachDB</h5>
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="100" height="100"/>
+        <h5>CSS</h5>
+    </a>
+    <a href="https://www.djangoproject.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="100" height="100"/>
+        <h5>Django</h5>
+    </a>
+    <a href="https://www.docker.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="100" height="100"/>
+        h5>Docker</h5>
+    </a>
+    <a href="https://expressjs.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="100" height="100"/>
         <h5>Express</h5>
     </a>
@@ -103,12 +82,30 @@ featured_image: /images/demo/about.jpg
         <h5>Node</h5>
     </a>
     <a href="https://www.photoshop.com/en" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="100" height="100"/> PhotoShop</a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="100" height="100"/> Postgresql</a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="100" height="100"/>Postman</a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="100"/> Python</a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="100" height="100"/>React </a>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="100" height="100"/>
+        <h5>PhotoShop</h5>
+    </a>
+    <a href="https://www.postgresql.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="100" height="100"/>
+        <h5>Postgresql</h5>
+    </a>
+    <a href="https://postman.com" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="100" height="100"/>
+        <h5>Postman</h5>
+    </a>
+    <a href="https://www.python.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="100"/>
+        <h5>Python</h5>
+    </a>
+    <a href="https://reactjs.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="100" height="100"/>
+        <h5>React</h5>
+    </a>
     <a href="https://www.selenium.dev" target="_blank" style="display:flex; flex-direction:column;">
         <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="100" height="100"/>
         <h5>Selenium</h5>
     </a>
-</p>
+</p> -->
 
 ## Hobbies
 #### Weiqi / Go / Baduk
