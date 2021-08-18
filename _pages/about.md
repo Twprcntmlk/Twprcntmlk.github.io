@@ -29,7 +29,7 @@ featured_image: /images/demo/about.jpg
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="100" height="100"/>
         <h5>BootStrap</h5>
     </a>
-    <a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" style="display:flex; flex-direction:column; justify-content:center;" width="110" height="110">
+    <a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" style="display:flex; flex-direction:column; justify-content:center;" width="150" height="150">
         <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="100" height="100"/>
         <h5>CockroachDB</h5>
     </a>
