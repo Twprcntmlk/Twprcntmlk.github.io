@@ -23,7 +23,7 @@ featured_image: /images/demo/about.jpg
 * Quidsi-Amazon Data Analyst
 
 ## Skills
-<p classname="skills" style="display:flex; justify-content:space-between; flex-wrap:wrap;">
+<p classname="skills" style="display:flex; justify-content:space-between; flex-wrap:wrap; flex-direction:row;"">
     <a href="https://getbootstrap.com" target="_blank" style="display:flex; flex-direction:column;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="100" height="100"/>
         <h5>BootStrap</h5>
@@ -48,10 +48,10 @@ featured_image: /images/demo/about.jpg
 </p>
 
 ## Hobbies
-### Weiqi / Go / Baduk
+#### Weiqi / Go / Baduk
   - I am the two time back to back US and Canada Go 1 Kyu Champion also know as the strongest 1 Kyu. I'm a master of tournament play and have dominated the eastern tournament scene during 2018 to current day.
-* Running
-* Swimming
+#### Running and Swimming
+    - Long time cross country runner and sprint swimmer. Cross country running was a great way to not only train myself physical but to training mentally to stay in the "suck". Swimming was often done during the winter season and therefore was a great way to train my breathing and use my legs in a different way.
 
 ## Recent Books Read
 * 12 Rules for Life: An Antidote to Chaos
