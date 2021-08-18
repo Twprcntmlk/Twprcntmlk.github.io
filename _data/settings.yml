@@ -14,8 +14,6 @@ menu_settings:
       url: '/blog/'
     - title: 'About/Contact'
       url: '/'
-    # - title: 'Contact'
-    #   url: '/contact'
 
 footer_settings:
   footer_tagline: An Amazing World Awaits!
