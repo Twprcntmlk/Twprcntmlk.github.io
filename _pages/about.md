@@ -22,7 +22,7 @@ featured_image: /images/demo/about.jpg
 * Owner CEO Fashion Paragon Traders
 * Quidsi-Amazon Data Analyst
 
-## Skills
+
 
 <!-- <p classname="skills" style="display:flex; justify-content:space-between; flex-wrap:wrap;">
     <a href="https://getbootstrap.com" target="_blank" style="display:flex; flex-direction:column; justify-content:center;" width="110" height="110">
