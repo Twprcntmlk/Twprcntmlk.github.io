@@ -23,7 +23,7 @@ featured_image: /images/demo/about.jpg
 * Quidsi-Amazon Data Analyst
 
 ## Skills
-<p classname="skills" style="display:flex; justify-content:space-between; flex-wrap:wrap; flex-direction:row;"">
+<p classname="skills" style="display:flex; justify-content:space-between; flex-wrap:wrap; flex-direction:column;"">
     <a href="https://getbootstrap.com" target="_blank" style="display:flex; flex-direction:column;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="100" height="100"/>
         <h5>BootStrap</h5>
@@ -32,10 +32,12 @@ featured_image: /images/demo/about.jpg
         <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="100" height="100"/>  <h5>CockroachDB</h5>
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="100" height="100"/> CSS
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="100" height="100"/>
+        <h5>CSS</h5>
     </a>
     <a href="https://www.djangoproject.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="100" height="100"/>Django
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="100" height="100"/>
+        <h5>Django</h5>
     </a>
     <a href="https://www.docker.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="100" height="100"/>Docker
