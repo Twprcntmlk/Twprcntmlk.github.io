@@ -23,7 +23,7 @@ featured_image: /images/demo/about.jpg
 * Quidsi-Amazon Data Analyst
 
 ## Skills
-<p classname="skills" style="display:flex; justify-content:space-between; flex-wrap:wrap; flex-direction:column;">
+<p classname="skills" style="display:flex; justify-content:space-between; flex-wrap:wrap; flex-direction:row;">
     <a href="https://getbootstrap.com" target="_blank" style="display:flex; flex-direction:column; justify-content:center;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="100" height="100"/>
         <h5>BootStrap</h5>
