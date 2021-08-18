@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: Projects
 subtitle: I am a leader, and critical thinker. My background as a business owner and six-sigma black belt has prepared me to bring continued success to your organization.
 description: Personal is the perfect theme for developers, designers and other creatives.
 featured_image: /images/demo/about.jpg
@@ -13,7 +13,7 @@ featured_image: /images/demo/about.jpg
 ## Contact Me / Info
  -->
 
-## Jobs
+<!-- ## Jobs
 * App Academy Graduate
 * LG Data Analyst
 * Owner CEO Fashion Paragon Traders
@@ -29,7 +29,7 @@ featured_image: /images/demo/about.jpg
 
 ## Recent Books Read
 * 12 Rules for Life: An Antidote to Chaos
-* Beyond Order: 12 More Rules for Life
+* Beyond Order: 12 More Rules for Life -->
 
 <!-- Personal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
 
