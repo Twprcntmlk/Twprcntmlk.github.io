@@ -61,12 +61,21 @@
 	width:20%;
 
 	@include mq(tabletp) {
-		height:50%;
-		width:50%;
+		height:20%;
+		width:20%;
 	}
 
 	@include mq(laptop) {
 		height:50%;
 		width: 50%;
 	}
+}
+
+.business-card--div{
+    display:flex;
+    justify-content:space-evenly;
+    align-items:center;
+    background-color: #1f2c6c;
+    width:50%;
+    padding:3.5% 0% 3.5% 0%;
 }
