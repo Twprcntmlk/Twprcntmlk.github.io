@@ -315,3 +315,44 @@
 		height: 100%;
 	}
 }
+
+
+business-card{
+	display:flex;
+	flex-wrap:wrap;
+	box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+	// margin-top: 15px;
+	// border-left: 2px solid $text-dark-color;
+	// padding: 10px 0 10px 20px;
+	// font-size: $blockquote-small;
+	// font-weight: $blockquote-weight;
+	// letter-spacing: $blockquote-spacing;
+	// line-height: $blockquote-lineheight;
+
+	@include mq(tabletp) {
+		border-left-width: 3px;
+		padding: 15px 0 15px 30px;
+		font-size: $blockquote-medium;
+	}
+
+	@include mq(laptop) {
+		border-left-width: 4px;
+		padding: 20px 0 20px 40px;
+		font-size: $blockquote-large;
+	}
+
+	p {
+		font-size: $blockquote-small;
+		font-weight: $blockquote-weight;
+		letter-spacing: $blockquote-spacing;
+		line-height: $blockquote-lineheight;
+
+		@include mq(tabletp) {
+			font-size: $blockquote-medium;
+		}
+
+		@include mq(laptop) {
+			font-size: $blockquote-large;
+		}
+	}
+}
