@@ -317,7 +317,7 @@
 }
 
 
-business-card{
+.business-card{
 	display:flex;
 	flex-wrap:wrap;
 	box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
@@ -355,4 +355,18 @@ business-card{
 			font-size: $blockquote-large;
 		}
 	}
+}
+
+.business-card--content1{
+	display:flex;
+	flex-direction:column;
+	margin:2% 2% 2% 2%;
+	flex-basis:46%;
+}
+
+.business-card--content2{
+	display:flex;
+	flex-direction:column;
+	margin:2% 2% 0% 2%;
+	flex-basis:46%; 
 }
