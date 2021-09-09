@@ -371,3 +371,20 @@
 	margin:2% 2% 0% 2%;
 	flex-basis:46%;
 }
+
+.business-card--image{
+	height:100%;
+	width:100%;
+
+	@include mq(tabletp) {
+		border-left-width: 3px;
+		padding: 15px 0 15px 30px;
+		font-size: $blockquote-medium;
+	}
+
+	@include mq(laptop) {
+		border-left-width: 4px;
+		padding: 20px 0 20px 40px;
+		font-size: $blockquote-large;
+	}
+}
