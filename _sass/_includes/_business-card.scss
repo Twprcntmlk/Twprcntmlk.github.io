@@ -14,46 +14,29 @@
 	// letter-spacing: $blockquote-spacing;
 	// line-height: $blockquote-lineheight;
 
-	@include mq(tabletp) {
-		border-left-width: 3px;
-		padding: 15px 0 15px 30px;
-		font-size: $blockquote-medium;
-	}
+	// @include mq(tabletp) {
+	// 	border-left-width: 3px;
+	// 	padding: 15px 0 15px 30px;
 
-	@include mq(laptop) {
-		border-left-width: 4px;
-		padding: 20px 0px 20px 0px;
-		font-size: $blockquote-large;
-	}
+	// }
 
-	p {
-		font-size: $blockquote-small;
-		font-weight: $blockquote-weight;
-		letter-spacing: $blockquote-spacing;
-		line-height: $blockquote-lineheight;
+	// @include mq(laptop) {
+	// 	border-left-width: 4px;
+	// 	padding: 20px 0px 20px 0px;
 
-		@include mq(tabletp) {
-			font-size: $blockquote-medium;
-		}
-
-		@include mq(laptop) {
-			font-size: $blockquote-large;
-		}
-	}
+	// }
 }
 
 .business-card--content1{
 	display:flex;
 	flex-direction:column;
 	margin:2% 2% 2% 2%;
-	flex-basis:46%;
 }
 
 .business-card--content2{
 	display:flex;
 	flex-direction:column;
 	margin:2% 2% 0% 2%;
-	flex-basis:46%;
 }
 
 .business-card--image{
