@@ -5,6 +5,7 @@
 	flex-wrap:wrap;
 	box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
 	justify-content: center;
+    flex-direction:row;
 	// margin-top: 15px;
 	// border-left: 2px solid $text-dark-color;
 	// padding: 10px 0 10px 20px;
@@ -56,8 +57,8 @@
 }
 
 .business-card--image{
-	height:70%;
-	width:70%;
+	height:50%;
+	width:50%;
 
 	@include mq(tabletp) {
 		height:50%;
