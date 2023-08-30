@@ -19,14 +19,17 @@ body {
   overflow-x: hidden;
 }
 
-h1, h2, h3, h4 {
+h1,
+h2,
+h3,
+h4 {
   font-size: 38px;
   font-weight: 700;
   font-family: "Source Sans Pro", sans-serif;
 }
 
 .script-font {
-  font-family: 'Shadows Into Light', cursive;
+  font-family: "Shadows Into Light", cursive;
 }
 
 a {
@@ -51,13 +54,15 @@ p {
   font-size: 14px;
 }
 
-ul, ol {
+ul,
+ol {
   list-style: outside none none;
   margin: 0;
   padding: 0;
 }
 
-ul li, ol li {
+ul li,
+ol li {
   list-style: none;
 }
 
@@ -142,18 +147,18 @@ ul li, ol li {
   color: #fff;
   background-color: #21cff3;
   box-shadow: 0 6px 22px rgba(0, 0, 0, 0.1);
-  transition: all .2s ease-in-out;
-  -moz-transition: all .2s ease-in-out;
-  -webkit-transition: all .2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  -webkit-transition: all 0.2s ease-in-out;
 }
 
 .btn-danger:hover {
   background-color: #f55262;
   border-color: #f55262;
   box-shadow: 0 6px 22px rgba(0, 0, 0, 0.1);
-  transition: all .2s ease-in-out;
-  -moz-transition: all .2s ease-in-out;
-  -webkit-transition: all .2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  -webkit-transition: all 0.2s ease-in-out;
 }
 
 .btn-border {
@@ -183,7 +188,8 @@ button:focus {
   outline: none !important;
 }
 
-.icon-close, .icon-check {
+.icon-close,
+.icon-check {
   color: #00b4d9;
 }
 
@@ -217,19 +223,19 @@ button:focus {
 }
 
 .social-icon li .twitter:hover {
-  background: #4A9CEC;
+  background: #4a9cec;
 }
 
 .social-icon li .instagram:hover {
-  background: #D6274D;
+  background: #d6274d;
 }
 
 .social-icon li .linkedin:hover {
-  background: #1260A2;
+  background: #1260a2;
 }
 
 .social-icon li .google:hover {
-  background: #CE332A;
+  background: #ce332a;
 }
 
 /* ScrollToTop */
@@ -258,7 +264,8 @@ a.back-to-top i {
   box-shadow: 0 0 4px rgba(0, 0, 0, 0.14), 0 4px 8px rgba(0, 0, 0, 0.28);
 }
 
-a.back-to-top:hover, a.back-to-top:focus {
+a.back-to-top:hover,
+a.back-to-top:focus {
   text-decoration: none;
 }
 
@@ -322,7 +329,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 
 .about-profile .pro-title:after {
   position: absolute;
-  content: ':';
+  content: ":";
   color: #040404;
   font-size: 14px;
   left: 77px;
@@ -341,7 +348,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 .counter-section:before {
-  content: '';
+  content: "";
   position: absolute;
   top: 0;
   bottom: 0;
@@ -637,7 +644,8 @@ a.back-to-top:hover, a.back-to-top:focus {
   color: #00b4d9;
 }
 
-.dropdown-item.active, .dropdown-item:active {
+.dropdown-item.active,
+.dropdown-item:active {
   background: transparent;
 }
 
@@ -692,7 +700,7 @@ a.back-to-top:hover, a.back-to-top:focus {
     display: block;
   }
   .slicknav_nav .active a {
-    background: #E91E63;
+    background: #e91e63;
     color: #fff;
   }
   .slicknav_nav a:hover,
@@ -787,6 +795,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 
 #portfolios .portfolio-item .shot-item {
   margin: 0px;
+  min-width: 406.656px;
 }
 
 #portfolio .mix {
@@ -899,15 +908,15 @@ a:not([href]):not([tabindex]) {
   color: #fff;
 }
 
-a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
+a:not([href]):not([tabindex]):focus,
+a:not([href]):not([tabindex]):hover {
   color: #fff;
 }
 
 /* Services Item */
 .services {
-  background: #F0F0F0;
+  background: #f0f0f0;
 }
-
 
 .services-item {
   background: #fff;
@@ -973,7 +982,8 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   outline: none;
 }
 
-.btn.disabled, .btn:disabled {
+.btn.disabled,
+.btn:disabled {
   opacity: 1;
 }
 
@@ -1057,7 +1067,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 
 /* Footer Area Start */
 .footer-area {
-  background: #1C1C20;
+  background: #1c1c20;
 }
 
 .footer-area .footer-text p {
